@@ -74,6 +74,9 @@
         android:textAllCaps="false"
         android:background="@drawable/google_button_background"
         android:padding="12dp"
+        android:textColor="@color/white"
         android:layout_marginBottom="16dp"
         android:fontFamily="sans-serif-medium" />
+
+
 </LinearLayout>
