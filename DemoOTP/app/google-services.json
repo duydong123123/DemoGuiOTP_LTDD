@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "770143861338",
+    "project_id": "testotp-541ed",
+    "storage_bucket": "testotp-541ed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770143861338:android:223f87fe4de2a1b2a1b663",
+        "android_client_info": {
+          "package_name": "com.example.demootp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQyyAfPvlqEpHiRNrMWlL9I5icVz5fJJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
